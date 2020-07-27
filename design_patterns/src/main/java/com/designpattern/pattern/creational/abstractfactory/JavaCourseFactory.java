@@ -1,6 +1,6 @@
 package com.designpattern.pattern.creational.abstractfactory;
 
-public class JavaCourseFactory implements ICourseFactory {
+public class JavaCourseFactory implements CourseFactory {
     @Override
     public Video getVideo() {
         return new JavaVideo();
