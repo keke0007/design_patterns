@@ -1,4 +1,4 @@
-package com.designpattern.pattern.creational.abstractfactory;
+package com.designpattern.pattern.creational._03_abstractfactory;
 
 public class JavaArticle extends Article {
     @Override

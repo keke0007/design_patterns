@@ -1,4 +1,4 @@
-package com.designpattern.pattern.creational.abstractfactory;
+package com.designpattern.pattern.creational._01_simplefactory;
 
 public class JavaVideo extends Video {
     @Override

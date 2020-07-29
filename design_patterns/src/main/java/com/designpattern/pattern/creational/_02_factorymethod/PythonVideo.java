@@ -1,4 +1,4 @@
-package com.designpattern.pattern.creational.simplefactory;
+package com.designpattern.pattern.creational._02_factorymethod;
 
 public class PythonVideo extends Video {
     @Override

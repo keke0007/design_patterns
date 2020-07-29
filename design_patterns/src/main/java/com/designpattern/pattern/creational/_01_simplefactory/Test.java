@@ -1,4 +1,4 @@
-package com.designpattern.pattern.creational.factorymethod;
+package com.designpattern.pattern.creational._01_simplefactory;
 
 public class Test {
     public static void main(String[] args) {
@@ -8,8 +8,9 @@ public class Test {
 //        if (video==null) return;
 //        video.produce();
 
-        VideoFactory videoFactory = new JavaVideoFactory();
-        Video video = videoFactory.getVideo();
+        //反射创建
+        VideoFactory videoFactory = new VideoFactory();
+        Video video = videoFactory.getVideo(JavaVideo.class);
         video.produce();
     }
 }

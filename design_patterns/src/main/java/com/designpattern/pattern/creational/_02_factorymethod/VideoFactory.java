@@ -1,4 +1,4 @@
-package com.designpattern.pattern.creational.factorymethod;
+package com.designpattern.pattern.creational._02_factorymethod;
 
 /**
  * 工厂方法创建对象由子类自己实现不由工厂决定

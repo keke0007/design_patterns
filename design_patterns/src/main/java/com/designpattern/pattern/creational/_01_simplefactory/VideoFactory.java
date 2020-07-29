@@ -1,4 +1,4 @@
-package com.designpattern.pattern.creational.simplefactory;
+package com.designpattern.pattern.creational._01_simplefactory;
 
 public class VideoFactory {
 

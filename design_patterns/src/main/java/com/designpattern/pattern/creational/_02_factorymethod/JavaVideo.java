@@ -1,4 +1,4 @@
-package com.designpattern.pattern.creational.factorymethod;
+package com.designpattern.pattern.creational._02_factorymethod;
 
 public class JavaVideo extends Video {
     @Override
